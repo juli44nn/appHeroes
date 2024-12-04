@@ -1,0 +1,15 @@
+.containerHeroePage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+    height: 100%
+}
+.containerImgHeroePage{
+    padding: 0.4rem;
+    
+}
+.containerImgHeroePage img{
+    border-radius: 0.4rem;
+    height: 90vh;
+}

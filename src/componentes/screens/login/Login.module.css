@@ -1,0 +1,24 @@
+
+.containerLogin{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,22,1) 35%, rgba(0,212,255,1) 100%);
+    background: rgb(0,28,64);
+    background: linear-gradient(90deg, rgba(0,28,64,1) 0%, rgba(0,27,61,1) 6%, rgba(0,106,227,1) 100%, rgba(67,136,222,0.9023984593837535) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerForm{
+    background-color: black;
+    height: 60%;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1vh;
+    color: white;
+}
